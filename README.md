@@ -1,1 +1,1 @@
-# amal-covid.github.io
+# covidAssignment
